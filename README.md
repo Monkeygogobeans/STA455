@@ -1,2 +1,2 @@
 # STA445
-just putting my assignemnts for STA455 in here. Please ignore unless you are my STA445 professor 
+just putting my assignemnts for STA445 in here. Please ignore unless you are my STA445 professor 
