@@ -1,2 +1,2 @@
-# STA455
-repository for my STA455 class
+# STA445
+just putting my assignemnts for STA455 in here. Please ignore unless you are my STA445 professor 
